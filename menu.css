@@ -1,0 +1,51 @@
+.menu{
+	position: fixed;
+	height:70px;
+	background-color: white;
+}
+.menu>ul{
+
+	
+	height: 70px;
+}
+.menu>ul>li{
+	float: left;
+	height: 70px;
+	font-size: 20px;
+	border-right: solid 1px;
+}
+.menu>ul>li>a{
+	font-family: tahoma;
+	text-transform: uppercase;
+	padding: 19.3px;
+	color: black;
+}
+.menu>ul>li>a:hover{
+	color: #bbb244;
+	text-decoration: none;
+}
+#logo>a>img{
+	width: 66%;
+	
+}
+#home>a{
+	color: #bbb244;
+}
+#logo{
+	padding-top: 15px;
+	width: 200px;
+}
+.menu>ul>li:last-child{
+	border-right: none;
+}
+.left{
+	padding-top: 19px;
+}
+#rom{
+	background-color: #172442;
+	padding-top: 19px;
+}
+#rom>a{
+	color: white;
+	font-family: arial;
+}
