@@ -1,0 +1,32 @@
+.backgroud{
+	background-color: #f8f9fa;
+}
+.col-md-6{
+	padding: 20px;
+	margin-top: 30px;
+	/*text-align: center;*/
+	padding-top: 20px;
+}
+.bgr-white>img{
+	width: 100%;
+
+}
+.bgr-white{
+	display: flex;
+	flex-direction: column;
+	padding-bottom: 20px;
+	background-color: white;
+}
+.col-md-4{
+	margin-bottom: 50px;
+}
+.title1{
+	text-align: center;
+}
+.detail-2{
+	text-align: center;
+}
+.view{
+	justify-content: center;
+
+}
