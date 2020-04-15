@@ -1,0 +1,60 @@
+.contents{
+	display: flex;
+}
+.find-us>img{
+	width: 100%;
+}
+.find-us{
+	width: 100%;
+}
+
+.txt{
+	text-transform: uppercase;
+	font-size: 30px;
+	margin-bottom: 50px;
+	font-weight: bold;
+	padding-left: 15px;
+
+}
+.pr-img{
+	width: 16%;
+}
+.pr-img>img{
+	width: 100%;
+}
+.link>a{
+	text-decoration: none;
+	text-transform: capitalize;
+	font-weight: bold;
+	color: black;
+	font-size: 22px;
+	padding-left: 20px;
+}
+.link>p{
+	padding-left: 20px;
+}
+.year{
+	color: #928e8e;
+	font-size: 13px;
+	padding-left: 20px;
+}
+.where{
+	text-align: center;
+	padding-top: 7px;
+	height: 40px;
+	width: 59%;
+	float: right;
+	border: solid 1px #dedede;
+	margin-top: 30px;
+}
+.where>a{
+	text-decoration: none;
+	color: black;
+	text-transform: uppercase;
+	font-size: 12px;
+}
+.where:hover a{
+	transition: 1s;
+	background-color:  #bbb244;;
+	color: white;
+}
