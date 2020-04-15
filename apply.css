@@ -1,0 +1,22 @@
+#btn-up>img{
+	width: 70%;
+}
+#btn-down>img{
+	background-color: white;
+	width: 70%;
+}
+#btn-up{
+	background-color: white;
+	border: none;
+	display: none;
+}
+#btn-down{
+	background-color: white;
+	border: none;
+	/*display: none;*/
+}
+.up-down{
+	background-color: white;
+	width: 4%;
+	margin: 0px auto;
+}
